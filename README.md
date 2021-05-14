@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArunVijay24
 - 👀 I’m interested in Tesing and developing
-- 🌱 I’m currently learning Manual testing and JWT testng using burpsuite
+- 🌱 I’m currently learning mysslef
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
