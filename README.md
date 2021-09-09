@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ArunVijay24
-- 👀 I’m interested in Tesing and developing
+- 👋 Hi, I’m Arunachalam Vijayakumar
+- 👀 I’m interested in front-end-developing
 - 🌱 I’m currently learning myself
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
